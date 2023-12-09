@@ -12,6 +12,7 @@
 
 ### Задание 1
 
+![Скриншот-1](https://github.com/GromDrn/HSRP-Keepalived/blob/master/screenshots/conf.jpg)
 
 ---
 
